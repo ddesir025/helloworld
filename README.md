@@ -1,2 +1,5 @@
 # helloworld
-Just another repository
+
+Hi Humans!
+
+I am so excited about the potential of working in a new project here.
